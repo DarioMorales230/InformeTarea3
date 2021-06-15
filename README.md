@@ -66,7 +66,11 @@ https://www.youtube.com/watch?v=x0dBCRtmgIA
 
 5. Conclusiones.
 
+•	Comprobamos efectivamente que para encontrar la resistencia equivalente en un circuito paralelo se da de manera muy diferente al de serie esto debido a que poseen nodos y comprobamos también con su formula.
 
+•	Pudimos verificar y analizar que la suma de todas las intensidades de cada rama en un circuito paralelo nos va a dar como resultado la intensidad total esto debido que la corriente se divide en cambio en circuito serie comprobamos que la suma de todos sus voltajes nos da su voltaje total en este caso es de la fuente.
+
+•	En esta tarea comprendimos las grandes diferencias que existen entre circuito serie y circuito paralelo una de ellas es que en circuito serie los resistores se conectan un tras de otra y en paralelo los resistores se conectan entre si y también logramos identificar varias características de ambos circuitos que nos llamaron mucha la atención. 
 
 6. Bibliografia.
 

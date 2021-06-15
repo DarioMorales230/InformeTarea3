@@ -13,6 +13,7 @@ Morales Carrillo Henry Dario, Flores Castillo Nicolas Fabian, Ramos Herrera Este
 
 2. Marco Teorico.
 
+![untitled@2x (8)](https://user-images.githubusercontent.com/85144847/122058844-acfb7c00-cdb1-11eb-8288-547a403fb083.png)
 
 ![WhatsApp Image 2021-06-14 at 14 12 42](https://user-images.githubusercontent.com/85144847/122015138-727bea00-cd85-11eb-8c56-fdd27c4876bc.jpeg)
 
